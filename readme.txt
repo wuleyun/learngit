@@ -5,4 +5,9 @@ Git is free software.
 44444444
 555555554
 666666666
+<<<<<<< HEAD
 creating a new banch is quick & simple.
+=======
+creating a new banch is quick and simple.
+>>>>>>> feature1
+creating a new branch is quick AND simple
